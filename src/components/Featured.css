@@ -1,4 +1,3 @@
-
 .featured {
     width: 100%;
     padding: 8rem 0;
@@ -76,7 +75,7 @@
 }
 
 .green {
-    color: var(--primary);
+    color: #0fab4e;
 }
 
 .red {
@@ -87,12 +86,10 @@
     .featured .container {
         grid-template-columns: 1fr;
     }
-
     .featured .left .btn {
         align-self: center;
     }
 }
-
 
 @media screen and (max-width: 478px) {
     .featured .container .right .card {
