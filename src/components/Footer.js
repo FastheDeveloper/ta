@@ -7,7 +7,7 @@ const Footer = () => {
         <div className='footer'>
             <div className='container'>
                 <div className='col col-1'>
-                    <h1>De<span className='primary'>Fi</span></h1>
+                    <h1>Trade<span className='primary'>Aviator</span></h1>
                 </div>
                 <div className='col'>
                     <h5>Support</h5>
@@ -18,7 +18,7 @@ const Footer = () => {
                         <a href='/'>FAQ</a>
 
                 </div>
-                <div className='col'>
+                {/* <div className='col'>
                     <h5>Developers</h5>
                     <span className='bar'> </span>
                         <a href='/'>Cloud</a>
@@ -26,7 +26,7 @@ const Footer = () => {
                         <a href='/'>Pro</a>
                         <a href='/'>API</a>
                    
-                </div>
+                </div> */}
                 <div className='col'>
                     <h5>Company</h5>
                     <span className='bar'> </span>
